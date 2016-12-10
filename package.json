@@ -1,0 +1,34 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Liri nodejs app for UCF Bootcamp",
+  "main": "liri.js",
+  "dependencies": {
+    "request": "^2.79.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morgansliman/liri-node-app.git"
+  },
+  "keywords": [
+    "node",
+    "twitter",
+    "spotify",
+    "omdb",
+    "music",
+    "movie",
+    "liri"
+  ],
+  "author": "morgansliman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morgansliman/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/morgansliman/liri-node-app#readme"
+}
