@@ -1,0 +1,89 @@
+my-tweets:
+Tweet 1:
+@marianomuse @AskPlayStation ...privacy settings screen where i had to reconfirm all my settings then it connected… https://t.co/2dNxGeRBb3
+Created: Sun Oct 30 01:09:01 +0000 2016
+Tweet 2:
+@marianomuse @AskPlayStation Hold your PS button, hover over online friends, and click the option on the right that… https://t.co/xn5G6z86hn
+Created: Sun Oct 30 01:08:24 +0000 2016
+Tweet 3:
+@AskPlayStation after viewing status os psn services, the opened webpage shows that all services are up and running, yet i'm offline (2/2)
+Created: Sun Oct 30 00:27:46 +0000 2016
+Tweet 4:
+@AskPlayStation My PS4 is able to connect to my router and the internet, but not PSN, even though my gf on same network connects fine (1/2)
+Created: Sun Oct 30 00:26:42 +0000 2016
+Tweet 5:
+@yung_cinnabitch cool, hmu when you find out. I'm down to buy it!
+Created: Thu Oct 29 00:39:01 +0000 2015
+Tweet 6:
+@yung_cinnabitch hey! So your friend still have the tix?
+Created: Thu Oct 29 00:34:28 +0000 2015
+Tweet 7:
+RT @Snowden: Can you hear me now?
+Created: Wed Sep 30 03:29:27 +0000 2015
+Tweet 8:
+RT @Snowden: Meanwhile, a thousand people at Fort Meade just opened Twitter.
+Created: Wed Sep 30 03:29:13 +0000 2015
+Tweet 9:
+@IrinaVK @LouisianaEDMFam @VoodooNola @TheEDMFamilies @LiveDistrictPro Ahhh #dreams is right! The lineup is sick! I wanna see them soo bad 😍
+Created: Thu Sep 24 06:14:06 +0000 2015
+Tweet 10:
+RT @IrinaVK: @morgansliman DEADMAU5 AND PRYDZ! #dreams  https://t.co/Eyu5U6OORJ
+Created: Thu Sep 24 06:12:23 +0000 2015
+Tweet 11:
+@shelbyblogs To be fair.. It does still say "Google" lol
+Created: Wed Sep 02 04:11:15 +0000 2015
+Tweet 12:
+@Marcin360 on the same note.. Any chance for a Skelliges most wanted fix for ps4? We can't simply reinstall the dlc like PC :(
+Created: Mon Aug 31 20:46:20 +0000 2015
+Tweet 13:
+@RocketLeague @PsyonixStudios how do I report a bug?All sound output is dropped randomly then the game freezes on loading screen after match
+Created: Sun Aug 30 20:14:45 +0000 2015
+Tweet 14:
+@Marcin360 quick question about ng+, will our progress for Master Marksman carry over into + or will we have to start from 0 headshots again
+Created: Mon Aug 17 17:21:09 +0000 2015
+Tweet 15:
+Obligatory daily "when is ng+ coming out" tweet @Marcin360 lol
+Created: Sun Aug 16 21:43:02 +0000 2015
+Tweet 16:
+RT @IrinaVK: So excited to see @Axwell @Ingrosso today! #Mackapoolooza 😁🎶✨
+Created: Fri Aug 07 16:55:57 +0000 2015
+Tweet 17:
+@DerekLavezzo too long :(
+Created: Fri Jul 24 22:43:47 +0000 2015
+Tweet 18:
+@AskPlayStation awesome! Thank you
+Created: Fri May 08 01:40:38 +0000 2015
+Tweet 19:
+@AskPlayStation ...because I already played the disc version. It says to delete the disc version but I'm worried my saved game will be gone
+Created: Fri May 08 01:11:43 +0000 2015
+Tweet 20:
+@AskPlayStation help please! I borrowed my friends copy of bloodborne and loved it, so I bought it on PSN, but it won't let me download
+Created: Fri May 08 01:10:48 +0000 2015
+
+spotify-this-song:
+
+Song: Rather Be (feat. Jess Glynne)
+Artist: Clean Bandit
+Album: New Eyes
+Preview: https://p.scdn.co/mp3-preview/a9d9d2d68603e22dd2f04693c8e29e4f5823e09f?cid=null
+
+movie-this:
+			
+Title: Cloud Atlas
+Year: 2012
+IMDB Rating: 7.5			
+Country: Germany, USA, Hong Kong, Singapore
+Language: English, Spanish, Ukrainian
+Plot: An exploration of how the actions of individual lives impact one another in the past, present and future, as one soul is shaped from a killer into a hero, and an act of kindness ripples across centuries to inspire a revolution.			
+Actors: Tom Hanks, Halle Berry, Jim Broadbent, Hugo Weaving
+Rotten Tomatoes Rating: 6.6			
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/cloud_atlas_2012/
+
+do-what-it-says:
+
+spotify-this-song:
+
+Song: I Want It That Way
+Artist: Backstreet Boys
+Album: Millennium
+Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=null
